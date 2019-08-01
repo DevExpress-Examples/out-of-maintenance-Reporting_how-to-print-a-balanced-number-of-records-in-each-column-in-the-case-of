@@ -30,19 +30,19 @@ Namespace WindowsApplication1
 			' 
 			' button1
 			' 
-			Me.button1.Location = New System.Drawing.Point(112,104)
+			Me.button1.Location = New System.Drawing.Point(90, 57)
 			Me.button1.Name = "button1"
-			Me.button1.Size = New System.Drawing.Size(75,23)
+			Me.button1.Size = New System.Drawing.Size(114, 23)
 			Me.button1.TabIndex = 0
-			Me.button1.Text = "button1"
+			Me.button1.Text = "Show Preview"
 			Me.button1.UseVisualStyleBackColor = True
 '			Me.button1.Click += New System.EventHandler(Me.button1_Click);
 			' 
 			' Form1
 			' 
-			Me.AutoScaleDimensions = New System.Drawing.SizeF(6F,13F)
+			Me.AutoScaleDimensions = New System.Drawing.SizeF(6F, 13F)
 			Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-			Me.ClientSize = New System.Drawing.Size(284,264)
+			Me.ClientSize = New System.Drawing.Size(284, 146)
 			Me.Controls.Add(Me.button1)
 			Me.Name = "Form1"
 			Me.Text = "Form1"
